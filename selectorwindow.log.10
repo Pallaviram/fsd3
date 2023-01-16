@@ -1,0 +1,17 @@
+00:00:00.671556 VirtualBox GUI VM Selector Window 6.1.32 r149290 win.amd64 (Jan 17 2022 11:29:30) release log
+00:00:00.671559 Log opened 2022-12-13T18:15:48.496173500Z
+00:00:00.671560 Build Type: release
+00:00:00.671566 OS Product: Windows 10
+00:00:00.671568 OS Release: 10.0.19045
+00:00:00.671568 OS Service Pack: 
+00:00:00.691609 DMI Product Name: 10JAA00GIG
+00:00:00.697802 DMI Product Version: ThinkCentre M79
+00:00:00.697831 Firmware type: BIOS
+00:00:00.697841 Host RAM: 7865MB (7.6GB) total, 4972MB (4.8GB) available
+00:00:00.697845 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.697846 Process ID: 6624
+00:00:00.697847 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.698082 Qt version: 5.6.2
+00:00:00.720735 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.531850 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:58.762179 GUI: UIMediumEnumerator: Medium-enumeration finished!
